@@ -90,6 +90,7 @@ else:
                 for line in f_bad_words: 
                     line = line.strip("\n")
                     list_of_abuses.append(line)
+                    
     
     if os.stat(tweet_file_path).st_size > 0: 
         tweet_file_ext = tweet_file_path.split("\\")[-1].split(".")[-1]     
