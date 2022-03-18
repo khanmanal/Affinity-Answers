@@ -1,0 +1,12 @@
+User Handle,Tweets,Foul Words,Num. Foul Words,Total Word Count,Deg. Profanity
+@user1,Hello World! I am Tirthankar Dutta. How are you doing today?,,0,11,0.0
+@user2,Hey moron! Do you like being an asshole? Why are you such a freak?!!,"asshole, freak, moron",3,14,0.21428571428571427
+@user3,Are you an idiot? Fucking bastard! ,bastard,1,6,0.16666666666666666
+@user4,Man! What a niggar! Bloody bastard!!,"bastard, niggar",2,6,0.3333333333333333
+@user5,Get a life! dog...,,0,4,0.0
+@user6,Sexy girl! OMG!,,0,3,0.0
+@user7,"Man, I can bone that her all night long....",,0,9,0.0
+@user8,I love Titanic movie. It is a cool movie...so romantic.,,0,11,0.0
+@user9,"Look at the Paki..sala, itna akar hain isme..",paki,1,9,0.1111111111111111
+@user10,Mullah kahika! Ja sala Pakistan mein chala ja..,paki,1,8,0.125
+@user11,"Chinki sala, saab bakwaz cheez taiyar karta hain ma*** kahika..",,0,10,0.0
